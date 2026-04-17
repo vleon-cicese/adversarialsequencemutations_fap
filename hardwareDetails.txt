@@ -1,0 +1,9 @@
+Se utilizó una laptop MSI GE63 RAIDER RGB 9SE para los experimentos de localcolabfold y esm-fold.
+
+Memoria RAM: 32 Gb, DDR4 2666 MHz
+Memoria ROM: 512 Gb, SSD M.2 NVMe PCIe
+Procesador (CPU): Intel Core i7-9750H
+Targeta gráfica (GPU): NVIDIA GeForce RTX 2060 (6 Gb GDDR6)
+Sistema operativo: Linux Mint Cinnamon 22.3
+Versión de Python utilizada: 3.12.3
+
